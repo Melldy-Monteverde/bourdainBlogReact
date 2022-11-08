@@ -1,0 +1,7 @@
+main {
+  background: #eee;
+  margin: auto 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid grey;
+  min-height: 100vh;
+}
