@@ -20,7 +20,7 @@ const Footer = () => {
         <FaLinkedinIn />
       </a>
       <span className="react-icon">
-        Made with <FaReact />
+        Made with - <FaReact />
       </span>
     </footer>
   );
