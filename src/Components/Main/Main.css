@@ -1,7 +1,27 @@
 main {
   background: #eee;
-  margin: auto 0.5rem;
+  margin: 1rem;
   border-radius: 0.5rem;
-  border: 1px solid grey;
   min-height: 100vh;
+  padding: 0.5rem;
+}
+
+.img-container {
+  padding: 10px;
+  margin: 0.5rem;
+  background: #fff;
+  border-radius: 5px;
+}
+
+img {
+  border-radius: 0.5rem;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+.fig-caption {
+  font-weight: bolder;
+  font-size: 1.5rem;
 }

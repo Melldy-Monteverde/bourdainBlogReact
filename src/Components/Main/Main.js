@@ -1,5 +1,5 @@
 import "./Main.css";
-import Timelines from "./Timelines/Timelines.js";
+import Timelines from "./Timelines/Timelines";
 
 const Main = () => {
   return (
@@ -14,10 +14,7 @@ const Main = () => {
           The Original gastronomy Rockstar.
         </figcaption>
       </figure>
-      <Timelines
-        date={1956}
-        text=" - Born in New York on June 25, 1956 and raised in Leonia , New Jersey "
-      />
+      <Timelines />
     </main>
   );
 };

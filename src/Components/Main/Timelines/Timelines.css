@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 1.3rem;
+}
+
+li {
+  border: none;
+  border-radius: 5px;
+}
